@@ -1,0 +1,42 @@
+
+compétences fondamentales du UX designer:
+
+~~ L’étude et la recherche utilisateur ~~
+* Récolter des rapides informations en faisant de la prospection directement dans la rue auprès des consommateurs potentiels
+* Préparer un questionnaire orienté en fonction du projet (environ 50 questions ouvertes).
+* Faire des interview (face à face ou au téléphone avec le partage d’écran simultané) en mettant l’utilisateur en application 
+face à un site ou une interface afin de remarquer et noter son parcours et ses attitudes lors de la complétion d’une tache
+* Examiner et regrouper les études / infographies basées sur des datas (données numérisées) afin d’en ressortir des tendances
+* Envoyer des formulaires en ligne massivement via des sites spécialisés dans les enquêtes de consommateur
+
+~~ L’architecture de l’information ~~
+* Définir les besoins principaux des utilisateurs ( en fonction du persona )
+* Créer un scénario client « User Story », plusieurs parcours possibles de l’utilisateur amenant à l’objectif souhaité par l’entreprise.
+* Penser aux systèmes de navigations, les spécificités techniques et les contraintes de chaque explorateur
+* Répertorier toutes les pages du site sous forme de diagrammeHiérarchiser et catégoriser les différents types de contenu / 
+information
+* Définir les ponts entre chaque page ainsi que le système de redirection interne.
+
+~~ Le Design d’interaction ~~
+* Lister les besoins principaux du consommateurDévelopper les fonctionnalités principales
+* Élaborer les composants types des pages modèles et leurs interactions 
+* Établir les différents types de placements de contenu 
+* Wireframe (design d’interface en filaire avec le vrai contenu)
+* User journey (mis en scène du contexte et de la manipulation du produit par l’utilisateur)
+* User Flow (définir les transitions entre chaque page : action, interaction, fonctionnalité et technique)
+
+
+~~ Le Design visuel ~~
+* Hiérarchiser les éléments visuels (bouton, box, slider, menu, sous-menu)
+* Gérer la proximité des composants ( loi de fitts )
+* Gérer l’affordance des éléments interactifs (faciliter l’action de l’utilisateur)
+* Établir un guide de style qui harmonisera l’ensemble du graphismeMockup (représentation statique de l’interface finale 
+contenant des spécifications techniques aidant au développement)
+
+~~ L’analyse des tests utilisateurs ~~
+* A/B tests, opposer deux interfaces en se concentrant sur un élément spécifique de l’interface
+* Analyser le flux de comportement des utilisateurs et les statistiques du site (taux de rebond, visite unique, etc.)
+* Proposer à l’utilisateur de donner son avis via un formulaire « feedback » intégré au site
+* Utiliser des prototypes papiers pour faire manipuler au client les différents éléments d’une interface
+* Faire des tests réels dans une salle neutre en mettant l’utilisateur face au site/application et 
+* remarquer le moindre de ses faits et gestes. 
